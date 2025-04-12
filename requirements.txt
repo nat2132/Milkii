@@ -1,0 +1,2 @@
+python-dotenv==1.0.1  # For environment variables
+markdown==3.5.2
